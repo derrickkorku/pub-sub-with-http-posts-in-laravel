@@ -6,6 +6,7 @@ This project demonstrates how to perform pub/sub messages using http posts in La
 
 - Create database in your database server
 - Setup database connection in your .env
+- Composer install vendor files
 
 
 ## How to test
