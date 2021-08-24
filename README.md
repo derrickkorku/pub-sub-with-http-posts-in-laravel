@@ -1,6 +1,6 @@
 ## About Project
 
-This project demonstrates how to pub/sub messages using http posts in Laravel 8
+This project demonstrates how to perform pub/sub messages using http posts in Laravel 8
 
 ## Setup
 
